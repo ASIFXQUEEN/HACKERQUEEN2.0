@@ -38,7 +38,7 @@ async def str_checker(strses):
         if info.bot:
             return False
         try:
-            await bot(join('@Mrshubh_1227'))
+            await bot(join('@ARAME9'))
         except:
             pass
         await bot.disconnect()
@@ -48,7 +48,7 @@ async def str_checker(strses):
 
 
 async def check_string(x):
-    yy = await x.send_message("GIVE STRING SESSION")
+    yy = await x.send_message("𝐃𝐄 𝐒𝐓𝐑𝐈𝐍𝐆 𝐀𝐁𝐇𝐈 𝐆𝐀𝐍𝐃 𝐌𝐀𝐑𝐓𝐈𝐇𝐔𝐍.....")
     try:
         xx = await x.get_response(timeout=300)
         await yy.delete()
@@ -65,7 +65,7 @@ async def check_string(x):
             await x.send_message('Either String Is Terminated Or You Are Using Bot String')
             return False
     else:
-        await x.send_message('String Session Format is Wrong')
+        await x.send_message('ᴛʜᴏᴅᴀꜱʜᴀ ᴍᴀᴅᴀʀ ᴄʜᴏᴄᴏʟᴀᴛᴇ ʜᴀɪ ᴋʏᴀ')
         return False
 
         # Chat id/Username Func
