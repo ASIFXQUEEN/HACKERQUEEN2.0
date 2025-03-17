@@ -1,7 +1,7 @@
 {
     "name": "Stranger Hack Bot",
-    "description": "A bot CAN DO ANYTHING Deployable on heroku made by SHIVANSH39",
-    "logo": "https://te.legra.ph/file/8e779ca298fb47f368f2b.jpg",
+    "description": "A bot CAN DO ANYTHING Deployable on heroku made by NOBITA",
+    "logo": "https://envs.sh/wpl.jpg",
     "keywords": [
         "TELETHON",
         "shivash op",
@@ -22,7 +22,7 @@
         },
         "SUDOERS": {
             "description": "PEOPLE WHO YOU WANT TO ADD ACCESS TO YOUR BOT",
-            "value": "6762113050 6919199044"
+            "value": "5099049612 6132821365"
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
@@ -34,12 +34,12 @@
          },
           "LOG_GROUP_ID": {
             "description": "CHANNEL ID WHERE YOUR BOT WILL SEND UPDATES ",
-            "value": "-1001766825642"
+            "value": ""
           },
       
           "MUST_JOIN": {
-            "description": "FORCE SUBSCRIBE BOT EX - mastiwithfriendsx",
-            "value": "Mrshubh_1227"
+            "description": "FORCE SUBSCRIBE BOT EX - BOT_HEART",
+            "value": "ARAME9"
         }
     }
 }
